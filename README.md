@@ -1,1 +1,1 @@
-# Python-programoz-s-a-gyakorlatban
+# Python-programozas-a-gyakorlatban
